@@ -1,5 +1,5 @@
-# hello-world
+# Hello-World
 
-hi everyone
+Hello everyone, this is my first repository, where I do experiments while learning Git.
 
-I just started programming and now Im doing my best to learn how to use the tools around me. Nice to meet yall.
+I have recently started to learn JavaScript and after finally grasp the foundational concepts of the language I now have the goal to understand how GitHub works.
